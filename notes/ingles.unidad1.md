@@ -2,7 +2,7 @@
 id: s24mrizgqjc4czdmdaf7sy7
 title: Unidad1
 desc: ''
-updated: 1736434576384
+updated: 1736520291493
 created: 1736343327999
 ---
 ---
@@ -32,33 +32,50 @@ These are verbs that can have different uses, meaning and modalities, they can b
 
 ## Categories of modal and related verbs
 ### Probability
+Something that is likely to happen
 - may/might (modal verb) (25%)
 - could (modal verb) (50%)
 - must/will (modal verb) (90%)
 
 ### Advice
+Recommendation or suggestion
 - should (modal verb)
 - ought to (modal verb)
 - had better (can be a warning or advice) (related verb)
 
 ### Obligation
+Something that you have to do
 - must (modal verb)
 - have to (related verb)
 - need to (related verb)
 
 ### Un/willingness
+Desire or lack of desire to do something
 - will (modal verb)
 - refuse to (related verb)
 
-# Homework
-## Probability
-- I **may** read the book
+### Request 
+Asking someone to do something
+- will (modal)
+- would (modal) (polite)
+- can (modal)
+- could (modal) (polite)
 
-## Advice
-- You **should** keep your mouth shut
+### Ability
+Be able to do something
+- can (modal) (**present**)
+- could (modal) (**past**)
+- (be) able to (related verb)
+- manage to (related verb)
 
-## Obligation
-- You **must** listen to me
+### Permission
+Consent or authorization to do something
+- may (modal)
+- can (modal)
+- could (modal)
+- allow to (related verb)
 
-## Un/willingness
-- I **will** quit my job
+### Extras
+- bound to (related verb) (destinado a)
+- supposed to (related verb) (se supone que)
+- succeed in (related verb) (tener exito en)
