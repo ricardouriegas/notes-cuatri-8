@@ -2,7 +2,7 @@
 id: ri1zgbkfhzju642l44csgod
 title: Unidad1
 desc: ''
-updated: 1736515588600
+updated: 1736516023948
 created: 1736342162569
 ---
 # Arquitectura de Aplicaciones Web
@@ -21,6 +21,11 @@ Sistema de distribución de documentos de hipertexto o hipermedios interconectad
 
 Desarrollado entre marzo de 1989 y 1990 por Tim Barnes Lee, en el CERN en Ginebra, Suiza.
 
-### Estandares Web
+### Estándares Web
 -  **Identificador de Recurso Uniforme** (URI), que es u sistema universal para referenciar recursos en la web, como paginas web.
 -  **Protocolo de Transferencia de Hipertexto** (HTTP), que especifica como se comunican el navegador y el servidor de ellos
+-  **Lenguaje de Marcado de Hipertexto** (HTML), usado para definir la estrcutura y contenido de documentos de hipertexto
+-  **Lenguaje de Marcado Extensible** (XML), usado para describir la estructura de los documentos de texto.
+
+### Funcionalidades de la Web
+El primer paso consiste en traducir la parte nombre del servidor de la URL en una dirección IP usando la base de datos distribuida de Internet conocida como DNS. Esta dirección IP es necesaria para contactar con el servidor web y poder enviarle paquetes de datos.
