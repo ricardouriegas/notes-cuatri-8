@@ -2,7 +2,7 @@
 id: ri1zgbkfhzju642l44csgod
 title: Unidad1
 desc: ''
-updated: 1736517061488
+updated: 1736775248590
 created: 1736342162569
 ---
 # Arquitectura de Aplicaciones Web
@@ -36,3 +36,12 @@ Al recibir los ficheros solicitados desde el servidor web, el navegador represen
 
 ### Servidor Web
 Programa informático que procesa una aplicación del lado del servidor, realizando conexiones bidireccionales y/o unidireccionales y síncronas o asíncronas con el cliente y generando o cediendo una respuesta en cualquier lenguaje o aplicación del lado del cliente.
+
+#### Ejemplos
+- Apache
+- Cherokee
+- nginx
+- IIS
+- Lighttpd
+- Kestrel
+
