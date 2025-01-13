@@ -2,7 +2,7 @@
 id: f2j0ptqtclh5n53a5yrsaf9
 title: Unidad1 - Introducción a la Virtualizacion
 desc: ''
-updated: 1736796572643
+updated: 1736796600604
 created: 1736360993743
 ---
 ## Que es la virtualizacion
@@ -87,3 +87,4 @@ En informatica, una simulacion es el proceso en el cual un sistema anfitrion imi
 - **Virtualizacion local de aplicaciones**: La aplicación se ejecuta en el dispositivo del usuario, pero  esta virtualizada, lo que significa que funciona en un entorno aislado, independiente del sistema operativo local.
 - **Transmisión de aplicaciones**: La aplicación reside en un servidor que envía pequeños componentes del software al dispositivo del usuario final según se necesiten para su ejecución.
 - **Virtualizacion de aplicaciones basada en servidor**: La aplicación se ejecuta completamente en un servidor, que envía unicamente su interfaz de usuario al dispositivo cliente.
+
