@@ -2,7 +2,7 @@
 id: f2j0ptqtclh5n53a5yrsaf9
 title: Unidad1 - Introducción a la Virtualizacion
 desc: ''
-updated: 1736535026789
+updated: 1736796572643
 created: 1736360993743
 ---
 ## Que es la virtualizacion
@@ -68,3 +68,22 @@ En informatica, una simulacion es el proceso en el cual un sistema anfitrion imi
 ### Diferencia en pocas palabras:
 - **Emulación:** Replica fielmente el comportamiento de un sistema para ejecutar software o hardware diseñado para él.  
 - **Simulación:** Crea un modelo aproximado de un sistema para analizar o predecir su comportamiento.
+
+## Tecnicas de Virtualizacion
+1. Virtualizacion de Servidores
+2. Virtualizacion de Escritorios
+3. Virtualizacion de Aplicaciones
+4. Virtualizacion de Redes
+5. Virtualizacion de Almacenamiento
+6. Virtualizacion de Datos
+
+### Virtualizacion de Servidores
+- La virtualizacion de servidores es un proceso que tarticiona un servidor fisico en multiples servidores virtuales. Cada uno de los cuales puede ejecutar su propio sistema operativo y aplicaciones.
+
+### Virtualizacion de Escritorios
+- La virtualizacion de escritorios te permite ejecutar multiples sistemas operativos de escritorio, cada uno en su propia maquina virtual (VM) en la misma computadora.
+
+### Virtualizacion de Aplicaciones
+- **Virtualizacion local de aplicaciones**: La aplicación se ejecuta en el dispositivo del usuario, pero  esta virtualizada, lo que significa que funciona en un entorno aislado, independiente del sistema operativo local.
+- **Transmisión de aplicaciones**: La aplicación reside en un servidor que envía pequeños componentes del software al dispositivo del usuario final según se necesiten para su ejecución.
+- **Virtualizacion de aplicaciones basada en servidor**: La aplicación se ejecuta completamente en un servidor, que envía unicamente su interfaz de usuario al dispositivo cliente.
