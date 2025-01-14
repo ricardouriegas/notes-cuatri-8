@@ -2,7 +2,7 @@
 id: ri1zgbkfhzju642l44csgod
 title: Unidad1
 desc: ''
-updated: 1736775248590
+updated: 1736861822358
 created: 1736342162569
 ---
 # Arquitectura de Aplicaciones Web
@@ -45,3 +45,34 @@ Programa informático que procesa una aplicación del lado del servidor, realiza
 - Lighttpd
 - Kestrel
 
+### Pagina Web
+- Es una una fuente de información adaptada para la WWW y accesible mediante un navegador de internet
+- Se presenta generalmente en formato HTML y puede contener hiperenlaces a otras paginas web, constituyendo la red enlazada de la WWW
+
+### Sitio Web
+- Conjunto de paginas web, típicamente comunes a un dominio de Internet o subdominio en la WWW en Internet
+- Su principal objetivo es entregar información
+- Consumir el contenido es la tarea mas importante
+- Tienen varias paginas interconectadas y comúnmente tienen un gestor de contenidos
+
+### Portal Web
+- Es un sitio web cuya caractteristica fundamental es la de servir de Puerta de entrada (unica) para ofrecer al usuario, de forma facil e integrada, el acceso a una serie de recursos y de servicios relacionados a un mismo tema.
+
+### Aplicación Web
+- TIene como objetivo que el usuario realice una tarea o un proceso
+- También puede referirse como un programa que  se utiliza desde el navegador web
+- Ejemplos: Servicios de banca en linea. Google Docs, sitios de venta de retail.
+
+### Diferencia entre Sitios Web y Aplicaciones Web
+
+- Los sitios web son fuentes de información, mientras que las aplicaciones se centrar en la realización de acciones
+- Un aplicación web puede ser parte de un sitio en un proyecto pero no al revés
+- Las funciones y tareas de una aplicación son muchas mas y tienen un nivel de complejidad mas elevado
+
+## Interface de Programación de aplicaciones (API)
+- Conjunto de subrutinas, funciones y procedimientos que ofrecen cierta biblioteca para poder ser utilizados por otro software como una capa de abstracción
+- Ejemplos:
+  - Microsoft Win32 API
+  - Microsoft WMI
+  - DirectX
+  - OpenGL
