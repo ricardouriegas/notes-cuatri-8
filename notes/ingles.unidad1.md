@@ -2,7 +2,7 @@
 id: s24mrizgqjc4czdmdaf7sy7
 title: Unidad1
 desc: ''
-updated: 1736778420920
+updated: 1736863779440
 created: 1736343327999
 ---
 ---
@@ -79,3 +79,4 @@ Consent or authorization to do something
 - bound to (related verb) (destinado a) (very possible, something that is going to happen)
 - supposed to (related verb) (se supone que)
 - succeed in + ing (related verb) (tener exito en)
+

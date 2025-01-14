@@ -2,7 +2,7 @@
 id: ri1zgbkfhzju642l44csgod
 title: Unidad1
 desc: ''
-updated: 1736861822358
+updated: 1736862170432
 created: 1736342162569
 ---
 # Arquitectura de Aplicaciones Web
@@ -76,3 +76,9 @@ Programa informático que procesa una aplicación del lado del servidor, realiza
   - Microsoft WMI
   - DirectX
   - OpenGL
+
+### Web API
+- Es una API para un servidor web o un navegador web
+- Es un concepto de desarrollo web que hace referencia a una aplicación web.
+- Una Web API del lado del servidor es una API que contiene uno a mas endpoint expuestos públicamente en un definido sistema de mensajes de tipo petición-respuesta (comúnmente HTTP).
+- Para la transferencia de datos pueden usar JSON o XML.
