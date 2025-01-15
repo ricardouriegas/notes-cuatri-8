@@ -2,7 +2,7 @@
 id: ri1zgbkfhzju642l44csgod
 title: Unidad1
 desc: ''
-updated: 1736862170432
+updated: 1736948988621
 created: 1736342162569
 ---
 # Arquitectura de Aplicaciones Web
@@ -82,3 +82,19 @@ Programa informático que procesa una aplicación del lado del servidor, realiza
 - Es un concepto de desarrollo web que hace referencia a una aplicación web.
 - Una Web API del lado del servidor es una API que contiene uno a mas endpoint expuestos públicamente en un definido sistema de mensajes de tipo petición-respuesta (comúnmente HTTP).
 - Para la transferencia de datos pueden usar JSON o XML.
+
+### Web service
+- Según la W3C:
+- Web service es un sistema de software diseñado para soportar la interoperatividad entre la interacción maquina a maquina en una red. Tienen una interface descrita en un formato (específicamente WSDL). Otros sistemas interactúan usando mensajes SOAP y típicamente usando HTTP y una serializacion XML.
+- Ejemplo: https://tribunalelectronico.gob.mx/WebApi/Services/Externos/WS.svc?singleWsdl
+
+### REST (Representational State Transfer)
+- Estilo de arquitectura de software que es un subtipo de HTTP
+- No tiene un estándar oficial
+- Representa recursos (definición algo abstracta, pues puede representar cualquier cosa: entidad, archivo, acción...)
+- Los datos pueden representarse en JSON, XML, HTML o cualquier otro formato.
+- Hace uso de los métodos HTTP GER, POST, PUT DELETE, PATCH para representar las acciones a realizar con los recursos.
+
+### What is a REST API
+![alt text](image-7.png)
+

@@ -2,7 +2,7 @@
 id: hyjsawhlgw4q9rdgc9xlcjw
 title: Work
 desc: ''
-updated: 1736866166206
+updated: 1736952223110
 created: 1736519805240
 ---
 ## Work 1
@@ -78,3 +78,19 @@ Could:
 - i will have to go
 ---
 ![alt text](image-6.png)
+
+### 3.
+![alt text](image-9.png)
+
+1. I <ins>can</ins> take you to the airport, after all.
+2. <ins>May</ins> I make a suggestion?
+3. You <ins>can</ins> use your cell phone during breaks.
+4. You <ins>shouldn’t</ins> wear red, it doesn’t suit you.
+5. You <ins>must</ins> obtain a visa to work in Australia.
+6. You <ins>should</ins> always make an appointment.
+7. You <ins>will</ins> pass. Don’t worry.
+8. You <ins>must not</ins> walk on the grass.
+9. I <ins>couldn’t</ins> get through, the line was busy.
+10. I <ins>won’t</ins> discuss the matter any further.
+
+![alt text](image-10.png)

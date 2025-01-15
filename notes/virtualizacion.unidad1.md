@@ -2,7 +2,7 @@
 id: f2j0ptqtclh5n53a5yrsaf9
 title: Unidad1 - Introducción a la Virtualizacion
 desc: ''
-updated: 1736796600604
+updated: 1736944229704
 created: 1736360993743
 ---
 ## Que es la virtualizacion
