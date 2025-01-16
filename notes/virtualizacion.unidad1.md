@@ -2,7 +2,7 @@
 id: f2j0ptqtclh5n53a5yrsaf9
 title: Unidad1 - Introducción a la Virtualizacion
 desc: ''
-updated: 1736944229704
+updated: 1737052106826
 created: 1736360993743
 ---
 ## Que es la virtualizacion
@@ -87,4 +87,18 @@ En informatica, una simulacion es el proceso en el cual un sistema anfitrion imi
 - **Virtualizacion local de aplicaciones**: La aplicación se ejecuta en el dispositivo del usuario, pero  esta virtualizada, lo que significa que funciona en un entorno aislado, independiente del sistema operativo local.
 - **Transmisión de aplicaciones**: La aplicación reside en un servidor que envía pequeños componentes del software al dispositivo del usuario final según se necesiten para su ejecución.
 - **Virtualizacion de aplicaciones basada en servidor**: La aplicación se ejecuta completamente en un servidor, que envía unicamente su interfaz de usuario al dispositivo cliente.
+
+### Virtualizacion de Redes
+- La virtualizacion de redes es el proceso de combinar recursos de red físicos (como switch, routers y enlaces de comunicación) en una única red lógica o de dividir una red física en varias redes virtuales independientes
+- El administrados de red puede modificar y controlar estos elementos sin interactuar con los componentes físicos subyacentes, lo que simplifica enormemente la gestión de la red.
+
+### Virtualizacion de Almacenamiento
+- Abstrae los dispositivos físicos de almacenamiento (discos duros, SSd, etc.) para presentarnos como un único recurso lógico o como multiples volúmenes de almacenamiento independientes
+Permite que todos los dispositivos de almacenamiento en la red sean accesibles y gestionados como si fueran un único dispositivo de almacenamiento
+- Agrupa todos los bloques de almacenamiento en un único conjunto compartido, del cual se pueden asignar recursos a cualquier maquina virtual (VM) en la red según sea necesario.
+
+### Virtualizacion de Datos
+- La virtualizacion de datos es una tecnología que abstrae y unifica los datos de multiples fuentes (bases de datos, archivos, APIs, sistemas en la nube, etc.) para presentarlos como un único conjunto lógico accesible a aplicaciones y usuarios. Permite acceder, consultar y analizar los datos en tiempo real, sin necesidad de moverlos ni replicarlos.
+
+
 
