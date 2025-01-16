@@ -2,7 +2,7 @@
 id: ri1zgbkfhzju642l44csgod
 title: Unidad1
 desc: ''
-updated: 1736948988621
+updated: 1737035657756
 created: 1736342162569
 ---
 # Arquitectura de Aplicaciones Web
@@ -98,3 +98,26 @@ Programa informático que procesa una aplicación del lado del servidor, realiza
 ### What is a REST API
 ![alt text](image-7.png)
 
+### GraphQL
+- Lenguaje de consulta y un tiempo de ejecución del servidor para interfaces de programación de aplicaciones (API).
+- Su función es brindar a los clientes exactamente a los datos que solicitan y nada mas
+- Permite a los desarrolladores crear consultar para extraer datos de varias fuentes en una sola llamada a la Api 
+- Desarrollador por Facebook en 2021 y liberado públicamente.
+![alt text](image-11.png)
+
+### gRPC
+- Marco de llamada a procedimientos remoto
+- (RPC) de alto rendimiento e independiente del lenguaje 
+- Diseñado por Google
+- Usa HTTP/2 para envió de datos en la capa de transporte
+- Usa Protocol Buffers para la gestión de la estructura y distribución de datos
+- Permite streaming de datos
+- Señalización Binaria
+
+### Modelo Vista Controlador 
+- Patrón de arquitectura de software que separa los datos, la forma de representar los datos y la lógica de negocio
+- Se construye en tres componentes:
+  - **Modelo**: Representación de la información
+  - **Controlador**: Encargado de responder a eventos, puede enviar comandos a la vista
+  - **Vista**: Encargado de presentar el modelo al usuario
+- 
