@@ -2,7 +2,7 @@
 id: hyjsawhlgw4q9rdgc9xlcjw
 title: Work
 desc: ''
-updated: 1737036612540
+updated: 1737038654700
 created: 1736519805240
 ---
 ## Work 1
@@ -96,3 +96,22 @@ Could:
 ![alt text](image-10.png)
 
 ## 1/16/2025
+<!-- 
+1. you could take the bus
+1. you can sleep on the bus
+1. we'll see you
+1. can u see that?
+1. we could bring our family
+1. can i talk to you for a second?
+1. can i ask u a question -->
+
+### Identifications
+| Word       | Is Modal? | Is Related Verb? | Category              | Example                                      |
+|------------|-----------|------------------|-----------------------|----------------------------------------------|
+| could      | X         |                  | Ability               | You could take the bus.                     |
+| can        | X         |                  | Ability/Permission    | You can sleep on the bus.                   |
+| we'll      |           | X (will)         | Probability           | We'll see you.                              |
+| can        | X         |                  | Request               | Can you see that?                           |
+| could      | X         |                  | Suggestion            | We could bring our family.                  |
+| can        | X         |                  | Request               | Can I talk to you for a second?             |
+| can        | X         |                  | Request               | Can I ask you a question?                   |
