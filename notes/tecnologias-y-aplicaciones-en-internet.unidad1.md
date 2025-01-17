@@ -2,7 +2,7 @@
 id: ri1zgbkfhzju642l44csgod
 title: Unidad1
 desc: ''
-updated: 1737035657756
+updated: 1737121629041
 created: 1736342162569
 ---
 # Arquitectura de Aplicaciones Web
@@ -120,4 +120,30 @@ Programa informático que procesa una aplicación del lado del servidor, realiza
   - **Modelo**: Representación de la información
   - **Controlador**: Encargado de responder a eventos, puede enviar comandos a la vista
   - **Vista**: Encargado de presentar el modelo al usuario
-- 
+
+### Model View ViewModel (MVVM)
+- Patron de diseño que tiene por finalidad separar la parte de la interfaz de usuario (view) de la parte  lógica del  negocio (modelo), ademas de tener un componente que interactúa como puente entre el View y el Model (ViewModel).
+
+### Arquitectura de 3 Capas
+- Modelo que tiene como objetivo primario la separación o desacoplamiento de las partes que componen un sistema de software.
+- Las capas son:
+  - Presentación: Es lo que ve el usuario
+  - Negocio: Lo ques se ejecuta, los procesos a nivel empresarial (dominio).
+  - Datos: La persistencia de datos.
+
+## Transferencia de Información en Aplicaciones Web
+### XML (Extensible Markup Language)
+- Metalenguaje que permite definir lenguajes de marcado. Desarrollado por la W3C.
+- Estándar de intercambio de información estructurada para interactuar entre diferentes plataformas.
+
+### JSON (JavaScript Object Notation)
+- Notación de objeto de JavaScript 
+- Formato de texto que se usa para el intercambio de datos
+- Se emplea normalmente en entornos donde el tamaño del flujo de datos entre el cliente y el servidor es de vital importancia.
+
+### Envio de Datos por HTTP
+- El ciente puede enviar datos de diferentes formas por el HTTP Request, asi como el servidor puede regresar datos de diferentes formas en el HTTP Response
+- El formato  de los datos se especifica, tanto para el Request como para el response en el Header "Content-Type"
+
+### WebSockets
+- Tecnología avanzada que hace posible abrir una sesión de comunicación interactiva entre el navegador del usuario y un servidor. Con esta API,  puede enviar mensajes a un servidor y recibir respuestas controladas, por eventos sin tener que consultar al servidor para una respuesta
