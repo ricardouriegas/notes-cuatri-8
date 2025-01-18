@@ -2,10 +2,10 @@
 id: f2j0ptqtclh5n53a5yrsaf9
 title: Unidad1 - Introducción a la Virtualizacion
 desc: ''
-updated: 1737118715177
+updated: 1737135559889
 created: 1736360993743
 ---
-## Que es la virtualizacion
+# Que es la virtualizacion
 - La virtualizacion es una tecnología que permite crear una versión virtual de un dispositivo o recurso, como un servidor, un sistema de almacenamiento, una red o incluso un sistema operativo
 
 ## Que es el hypervisor
@@ -100,5 +100,19 @@ Permite que todos los dispositivos de almacenamiento en la red sean accesibles y
 ### Virtualizacion de Datos
 - La virtualizacion de datos es una tecnología que abstrae y unifica los datos de multiples fuentes (bases de datos, archivos, APIs, sistemas en la nube, etc.) para presentarlos como un único conjunto lógico accesible a aplicaciones y usuarios. Permite acceder, consultar y analizar los datos en tiempo real, sin necesidad de moverlos ni replicarlos.
 
+# Maquina Virtual (VM)
+- Son contenedores para sistemas operativos tradicionales y aplicaciones que se ejecutan sobre un hipervisor en un servidor físico
+- Las maquinas virtuales tienen acceso a diversos recursos de hardware, pero desde su perspectiva, no saben que estos dispositivos son en realidad virtuales. 
+- La VM permite ejecutar multiples sistemas operativos en un mismo hardware físico de manera aislada, maximizando el uso de recursos
+
+![alt text](image-12.png)
+
+## Firmas Comerciales (Open Source)
+- VMware: Líder en soluciones empresariales de virtualizacion.
+  - Productos: VMware vSphare, VMware Workstation, VMware Horizon.
+- KVM (Kernel-Based Virtual Machine): Virtualizaicon nativa de Linux, utilizada en servidores y centros de datos
+- Proxmox VE: Solución de virtualizacion para servidores combinando KVM y LXC
+- Xen Project: Hipervisor de código abierto utilizado en entornos empresariales
+- QEMU: Emulador y virtualizador ampliamente usado en entornos Linux
 
 
