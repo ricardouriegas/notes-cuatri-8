@@ -2,7 +2,7 @@
 id: ri1zgbkfhzju642l44csgod
 title: Unidad1
 desc: ''
-updated: 1737121629041
+updated: 1737380830614
 created: 1736342162569
 ---
 # Arquitectura de Aplicaciones Web
@@ -147,3 +147,14 @@ Programa informático que procesa una aplicación del lado del servidor, realiza
 
 ### WebSockets
 - Tecnología avanzada que hace posible abrir una sesión de comunicación interactiva entre el navegador del usuario y un servidor. Con esta API,  puede enviar mensajes a un servidor y recibir respuestas controladas, por eventos sin tener que consultar al servidor para una respuesta
+
+## Herramientas de prototipado de aplicaciones web
+### Cloud Computing
+- Servicios en la nube || Computo en la nube
+- Red de servidores remotos conectados a internet para almacenar, administrar y procesar datos, servidores, bases de datos, redes y software.
+- Evita que tengamos que usar nuestra propia infraestructura y/o recursos (hardware/software)
+
+#### Metodos de Entrega
+- Software como servicio (SaaS)
+- Plataforma como servicio (PaaS)
+- Infraestructura como servicio (IaaS)
