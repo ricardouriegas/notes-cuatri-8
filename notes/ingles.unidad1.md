@@ -2,7 +2,7 @@
 id: s24mrizgqjc4czdmdaf7sy7
 title: Unidad1
 desc: ''
-updated: 1736863779440
+updated: 1737383330946
 created: 1736343327999
 ---
 ---
@@ -80,3 +80,33 @@ Consent or authorization to do something
 - supposed to (related verb) (se supone que)
 - succeed in + ing (related verb) (tener exito en)
 
+
+# Phrasal Verbs with "get"
+- Get out
+  - You always get out of church
+  - You need to get out
+
+- Get at (llegar a)
+  - Get at the truth
+- Get away (irse, escapar, salirse con la tuya, alejarse)
+  - we got away but he got caught
+
+- get into (que te esta gustando)
+  - Im getting into yoga
+- Get off ()
+  - Get off me
+
+- get on
+  - they are really getting on 
+- get around (resolver)
+  - I still cant get around this problem
+
+- get over (superar)
+  - i get over it already
+- get through (atravesarlo)
+  - I will get through it, i promise
+
+- get to
+  - dont let them get to you
+- get up
+  - he get up to 100 pound going to the gym

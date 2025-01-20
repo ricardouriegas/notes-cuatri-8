@@ -2,7 +2,7 @@
 id: hyjsawhlgw4q9rdgc9xlcjw
 title: Work
 desc: ''
-updated: 1737122934904
+updated: 1737384386901
 created: 1736519805240
 ---
 ## Work 1
@@ -115,3 +115,6 @@ Could:
 | could      | X         |                  | Suggestion            | We could bring our family.                  |
 | can        | X         |                  | Request               | Can I talk to you for a second?             |
 | can        | X         |                  | Request               | Can I ask you a question?                   |
+
+## 1/20/2025
+![alt text](image-13.png)
