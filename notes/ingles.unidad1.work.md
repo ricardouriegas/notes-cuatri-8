@@ -2,7 +2,7 @@
 id: hyjsawhlgw4q9rdgc9xlcjw
 title: Work
 desc: ''
-updated: 1737496162534
+updated: 1737643196821
 created: 1736519805240
 ---
 ## Work 1
@@ -118,3 +118,9 @@ Could:
 
 ## 1/20/2025
 ![alt text](image-13.png)
+
+
+## page 62 pdf
+![alt text](image-18.png)
+
+![alt text](image-19.png)
