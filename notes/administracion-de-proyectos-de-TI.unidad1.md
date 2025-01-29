@@ -2,7 +2,7 @@
 id: jyulhy9skxlsyoey1lzqfl1
 title: Unidad1
 desc: ''
-updated: 1738163508495
+updated: 1738163565282
 created: 1736348452179
 ---
 
@@ -67,3 +67,43 @@ created: 1736348452179
  
 
 --- 
+
+# Guía Rápida de Usuario
+
+## Introducción
+
+Bienvenido/a a la plataforma de evaluación de riesgos de corrupción. Esta guía rápida te ayudará a navegar por la plataforma y aprovechar sus funcionalidades principales.
+
+## Acceso a la Plataforma
+
+1. Abre un navegador web compatible (Chrome, Firefox, Edge).
+2. Ingresa la URL de la plataforma proporcionada por el administrador.
+3. Inicia sesión con tu cuenta o regístrate si eres un nuevo usuario.
+
+## Evaluación de Riesgos
+
+1. Accede a la sección **Evaluación** desde el menú principal.
+2. Completa el formulario con los datos del proceso a evaluar.
+3. Usa el **Checklist para Evaluar Riesgos de Corrupción** para identificar posibles riesgos.
+4. Guarda la evaluación para futuras consultas.
+
+## Generación de Reportes
+
+1. Dirígete a la sección **Reportes**.
+2. Selecciona una evaluación previamente realizada.
+3. Genera un informe en formato PDF con los resultados de la evaluación.
+
+## Base de Datos de Riesgos
+
+1. Explora la sección **Riesgos Identificados** para consultar riesgos documentados.
+2. Filtra la información por categoría o nivel de riesgo.
+3. Agrega nuevos riesgos si cuentas con permisos de edición.
+
+## Configuración y Soporte
+
+1. Accede a la sección **Configuración** para personalizar tu experiencia.
+2. Si necesitas ayuda, consulta la sección **Soporte** o contacta al administrador.
+
+## Conclusión
+
+Para más información, revisa la documentación completa o contacta con el equipo de soporte.
