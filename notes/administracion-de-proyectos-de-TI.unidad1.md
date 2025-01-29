@@ -2,7 +2,7 @@
 id: jyulhy9skxlsyoey1lzqfl1
 title: Unidad1
 desc: ''
-updated: 1738163565282
+updated: 1738164028380
 created: 1736348452179
 ---
 
@@ -107,3 +107,100 @@ Bienvenido/a a la plataforma de evaluación de riesgos de corrupción. Esta guí
 ## Conclusión
 
 Para más información, revisa la documentación completa o contacta con el equipo de soporte.
+
+# Base de Datos (SQL)
+```sql
+-- Crear la base de datos
+CREATE DATABASE SistemaAnticorrupcion;
+
+-- Seleccionar la base de datos
+USE SistemaAnticorrupcion;
+
+-- Tabla para las empresas
+CREATE TABLE empresas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(255) NOT NULL,
+    sector VARCHAR(100),
+    direccion VARCHAR(255),
+    telefono VARCHAR(50),
+    correo VARCHAR(100) NOT NULL
+);
+
+-- Tabla para los usuarios (empleados o auditores de las empresas)
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_empresa INT,
+    nombre VARCHAR(100) NOT NULL,
+    correo VARCHAR(100) NOT NULL UNIQUE,
+    rol ENUM('Administrador', 'Auditor', 'Empleado') NOT NULL,
+    contrasena VARCHAR(255) NOT NULL,
+    FOREIGN KEY (id_empresa) REFERENCES empresas(id)
+);
+
+-- Tabla para las auditorías realizadas
+CREATE TABLE auditorias (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_empresa INT,
+    id_usuario INT,
+    fecha_inicio DATETIME DEFAULT CURRENT_TIMESTAMP,
+    fecha_final DATETIME,
+    estado ENUM('Pendiente', 'En Progreso', 'Finalizada') NOT NULL,
+    descripcion TEXT,
+    FOREIGN KEY (id_empresa) REFERENCES empresas(id),
+    FOREIGN KEY (id_usuario) REFERENCES usuarios(id)
+);
+
+-- Tabla para las actividades del cronograma (adaptado para auditorías)
+CREATE TABLE actividades (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_auditoria INT,
+    semana_inicio INT NOT NULL,
+    semana_fin INT NOT NULL,
+    descripcion VARCHAR(255) NOT NULL,
+    FOREIGN KEY (id_auditoria) REFERENCES auditorias(id)
+);
+
+-- Tabla para los entregables asociados a las auditorías
+CREATE TABLE entregables (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_auditoria INT,
+    tipo ENUM('Tangibles', 'No Tangibles') NOT NULL,
+    nombre VARCHAR(255) NOT NULL,
+    fase VARCHAR(100) NOT NULL,
+    descripcion TEXT NOT NULL,
+    FOREIGN KEY (id_auditoria) REFERENCES auditorias(id)
+);
+
+-- Tabla para los riesgos identificados en una auditoría
+CREATE TABLE riesgos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_auditoria INT,
+    categoria VARCHAR(100) NOT NULL,
+    nivel_riesgo ENUM('Bajo', 'Medio', 'Alto') NOT NULL,
+    descripcion TEXT NOT NULL,
+    FOREIGN KEY (id_auditoria) REFERENCES auditorias(id)
+);
+
+-- Tabla para las evaluaciones realizadas durante las auditorías
+CREATE TABLE evaluaciones (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_auditoria INT,
+    id_usuario INT,
+    fecha DATETIME DEFAULT CURRENT_TIMESTAMP,
+    proceso_nombre VARCHAR(255) NOT NULL,
+    riesgos_identificados TEXT,
+    FOREIGN KEY (id_auditoria) REFERENCES auditorias(id),
+    FOREIGN KEY (id_usuario) REFERENCES usuarios(id)
+);
+
+-- Tabla para los reportes generados en una auditoría
+CREATE TABLE reportes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_auditoria INT,
+    id_evaluacion INT,
+    formato ENUM('PDF', 'Excel', 'Word') NOT NULL,
+    contenido TEXT,
+    FOREIGN KEY (id_auditoria) REFERENCES auditorias(id),
+    FOREIGN KEY (id_evaluacion) REFERENCES evaluaciones(id)
+);
+```
