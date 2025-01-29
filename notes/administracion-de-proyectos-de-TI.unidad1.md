@@ -2,7 +2,7 @@
 id: jyulhy9skxlsyoey1lzqfl1
 title: Unidad1
 desc: ''
-updated: 1736957543402
+updated: 1738163508495
 created: 1736348452179
 ---
 
@@ -65,3 +65,5 @@ created: 1736348452179
    - **Fase:** Semana 10-12 (Despliegue y promoción inicial).  
    - **Descripción:** Una estrategia básica, como una publicación para dar a conocer la plataforma.  
  
+
+--- 
