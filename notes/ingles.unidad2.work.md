@@ -2,7 +2,7 @@
 id: y21ju5ttipgk0dp7cesgqh7
 title: Work
 desc: ''
-updated: 1738160985970
+updated: 1738247631323
 created: 1737730154876
 ---
 # work 1/24/2025
@@ -18,9 +18,15 @@ created: 1737730154876
 
 ![alt text](image-20.png)
 
-# work tomorrow
+# work 1/29/2025
 ![alt text](image-23.png)
 ![alt text](image-22.png)
 
 ![alt text](image-24.png)
 ![alt text](image-25.png)
+
+# work 1/30/2025
+![alt text](image-26.png)
+![alt text](image-27.png)
+A young and cool man was walking slowly down the busy street, humming to himself, lost in thought, and listening to music.
+
