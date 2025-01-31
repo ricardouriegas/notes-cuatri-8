@@ -2,7 +2,7 @@
 id: y21ju5ttipgk0dp7cesgqh7
 title: Work
 desc: ''
-updated: 1738247631323
+updated: 1738333983824
 created: 1737730154876
 ---
 # work 1/24/2025
@@ -30,3 +30,9 @@ created: 1737730154876
 ![alt text](image-27.png)
 A young and cool man was walking slowly down the busy street, humming to himself, lost in thought, and listening to music.
 
+# work 1/31/2025
+Topic | Type | Example
+--- | --- | ---
+Relative Clauses | Defining | "Mom! Shauna Glassman had five caterers at her Bat Mitzvah, and everyone talked about how great that was, so we need six caterers." 
+Present Participle | Adjective | Tina, I am up to my pits in Bat Mitzvah planning
+Past Participle | Adjective | Tina, that's the third time you sighed on my sandwich
