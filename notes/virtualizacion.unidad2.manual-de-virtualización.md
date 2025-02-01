@@ -2,7 +2,7 @@
 id: cs41mwgod7rlcymwixu7xyd
 title: Manual De Virtualización
 desc: ''
-updated: 1738352503318
+updated: 1738368717661
 created: 1738346129661
 ---
 # Manual De Virtualización (Gnome-Boxes)
@@ -51,3 +51,35 @@ _Ricardo Emmanuel Uriegas Ibarra - 2230122_
 ![alt text](image-30.png)
 3. También se puede configurar snapshots (copias de seguridad que toman una foto al sistema para poder regresar a ese punto en caso de fallo). 
 ![alt text](Screenshot_20250131_125144.png)
+
+# Manual de Virtualización (VirtualBox)
+_Ricardo Emmanuel Uriegas Ibarra - 2230122_
+
+## Pasos para Crear y Configurar la Máquina Virtual en VirtualBox
+
+### 1. Creación de la Máquina Virtual
+1. Abrir VirtualBox y hacer clic en "New", lo 
+![alt text](image-33.png)
+2. Asignar nombre y seleccionar tipo (Windows) y versión (Windows 10).
+![alt text](image-32.png)
+3. Definir la cantidad de RAM y crear el disco duro virtual.
+![alt text](image-34.png)
+4. Seleccionar el tipo de disco duro y la capacidad.
+![alt text](image-35.png)
+5. Finalizar
+![alt text](image-36.png)
+
+### 2. Instalación del Sistema Operativo
+1. Ejecutar la máquina virtual
+2. Seguir los pasos de instalación de Windows.
+
+### 3. Configuración y Ajuste de Recursos
+1. Dar clic en "Configuración" para ajustar los recursos de la máquina virtual.
+![alt text](image-38.png)
+2. Ajustar la memoria RAM y los núcleos de CPU en la configuración.
+![alt text](image-39.png)
+![alt text](image-41.png)
+3. Administrar el almacenamiento y la red.
+![alt text](image-40.png)
+4. (Opcional) Crear instantáneas (snapshots) para respaldos.
+![alt text](image-37.png)
