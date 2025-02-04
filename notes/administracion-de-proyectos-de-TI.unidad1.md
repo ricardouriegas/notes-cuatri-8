@@ -2,7 +2,7 @@
 id: jyulhy9skxlsyoey1lzqfl1
 title: Unidad1
 desc: ''
-updated: 1738164028380
+updated: 1738682098129
 created: 1736348452179
 ---
 
@@ -20,6 +20,9 @@ created: 1736348452179
 - **Mes 2:** Desarrollo inicial y creación de la guía de usuario.
 - **Mes 3:** Creación de reportes y riesgos identificados.
 - **Mes 4:** Despliegue de la beta de la plataforma, monitoreo inicial y ejecución del plan de marketing. -->
+<!-- href -->
+# Drive
+https://drive.google.com/drive/folders/18v9EZWqKglmqAcZJZyzGWlwBy5GuN3R3?usp=sharing
 
 # Cronograma de Actividades
 
