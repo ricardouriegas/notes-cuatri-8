@@ -2,7 +2,7 @@
 id: 4v6s9fnagbyu6m39734ptvr
 title: Unidad2
 desc: ''
-updated: 1738162010664
+updated: 1738679778589
 created: 1737727803881
 ---
 > Phrases: doesn't have a verb
@@ -44,3 +44,52 @@ whose | it is used for show possession | Anne, **whose** mother I know, works he
 - They usually hold a passive meaning
   - I'm interested in modern art
   - Look at that broken chair
+
+# Very and absolutely
+Graduable adjectives (very) | Extreme adjectives (absolutely)
+---|---
+good | marvelous/fantastic/excellent
+bad | awful/dreadful
+big | enormous/huge
+wet | soaking
+nice | fantastic/gorgeous
+unusual | extraordinary
+surprised | amazed
+excited | thrilled
+valuable | priceless
+silly | ridiculous
+interesting | fascinating
+tired | exhausted
+happy | delighted/thrilled
+smart | brilliant
+funny | hilarious
+
+## Adverbs (commonly found at the end of the sentence or btw the subject and the verb)
+- Remember that adverbs help us modifying verbs, adjectives and even other adverbs.
+- Modifying a verb:
+  - We were sweating (profusely)
+  - The computer wast working (properly)
+  - They (rarely) eat meat.
+- Modifying on adjective:
+  - The room feels (pretty) stuffy
+  - Today is (extremely) hot
+- Modifying other adverbs:
+  - She got here (very) (fast)
+  - They (almost) (never) go out
+
+> **Pretty**: The adverb can have different meaning depending on the tone it is said.
+
+## Everyday english
+- **Exclamations with what**:
+  - _What (a/an) + adj + noun_
+    - What a wonderful world
+    - What an idiot
+- **Exclamations with what**:
+  - _What + adjetive + noun_
+    - What fabulous shoes
+- **Exclamations with how**:
+  - _How + adjetive_
+    - How surprising
+    - How strange
+
+> Remember that explamations usually have an exclamation mark at the end.
