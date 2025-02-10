@@ -2,10 +2,10 @@
 id: 1ppuoxspyrh9g07uwjgg7il
 title: Unidad3
 desc: ''
-updated: 1739196966231
+updated: 1739197592024
 created: 1739196689713
 ---
-# Used to do and be used to doing
+# Past Habits and Familiarity
 ## Used to do
 - We use this to talk about something that happened in the past but doesnt happen anymore in the present, it is always used in past tense.
 - Example:
@@ -17,3 +17,16 @@ created: 1739196689713
 - Example:
   - I **am used to sleeping** late. I'm night owl
   - She never goes out og he house without a sweater, she **is so used to wearing** it. she'll feel cold.
+
+## Would + verb
+- 'Would' is only good for actions or situations that were repeated many times.
+- Example:
+  - We **would go** back to your house after school, remember?
+  - I loved going to my grandma's house, she **'d bake** cookies and we' **'d watch** novelas together.
+
+## Get used to
+- We use it when you are in the process of becoming of becoming familiar with something, so that you no longer feel that the thing or person is unusual or surprising.
+- Example:
+  - I know you dont really like the sea but you'll **get used to** it.
+  - We never **get used to** this gouse it never felt like home.
+  - I' **'m getting used to** being here.
