@@ -2,7 +2,7 @@
 id: 1ppuoxspyrh9g07uwjgg7il
 title: Unidad3
 desc: ''
-updated: 1739197592024
+updated: 1739283549621
 created: 1739196689713
 ---
 # Past Habits and Familiarity
@@ -30,3 +30,12 @@ created: 1739196689713
   - I know you dont really like the sea but you'll **get used to** it.
   - We never **get used to** this gouse it never felt like home.
   - I' **'m getting used to** being here.
+
+## Expressing present habit
+- We can use simple present to talk about, a fact or routine or habit
+  - My family **has** tamales for Christmas
+- We can use present progressive to talk about an attitude towards a specific habit:
+  - My bother **is always leaving** his stuff on the floor
+- We can use future simple (will) to talk about a charactestic (typical) behavior of a person:
+  - He **'ll eat** my food and say he didnt do it, as always
+
