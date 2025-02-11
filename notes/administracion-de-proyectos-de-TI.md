@@ -2,7 +2,7 @@
 id: pynzmb9yr9uz673q0v1492e
 title: Administracion De Proyectos De TI
 desc: ''
-updated: 1739291910862
+updated: 1739293888115
 created: 1736348399792
 ---
 # Cronograma de Actividades
@@ -62,12 +62,3 @@ Bienvenido/a al generador de progresiones armónicas en Python. Esta herramienta
    - Reproduce el archivo MIDI en cualquier software de edición musical como LMMS, Ableton, etc.
 
 ---
-
-# Cronograma de Actividades
-
-| Semana | Actividades                                                         |
-|--------|----------------------------------------------------------------------|
-| 1-3    | Definición de requisitos, boceto inicial de la interfaz y planificación. |
-| 4-5    | Desarrollo del generador de progresiones armónicas en Python.         |
-| 6      | Implementación de personalización y exportación de MIDI.              |
-| 7      | Documentación y pruebas de usuario.                                  |
