@@ -2,7 +2,7 @@
 id: 1ppuoxspyrh9g07uwjgg7il
 title: Unidad3
 desc: ''
-updated: 1739283549621
+updated: 1739370990566
 created: 1739196689713
 ---
 # Past Habits and Familiarity
@@ -38,4 +38,25 @@ created: 1739196689713
   - My bother **is always leaving** his stuff on the floor
 - We can use future simple (will) to talk about a charactestic (typical) behavior of a person:
   - He **'ll eat** my food and say he didnt do it, as always
+
+## Adjetives
+- Easygoing
+- Sensitive
+- Outgoing
+- Shy
+- Reserved
+- Moody
+- Stubborn
+- Bossy
+- Selfish
+- Generous
+- Honest
+- Loyal
+- Trustworthy
+- Reliable
+- Hardworking
+- Lazy
+- Punctual
+- Responsible
+- Disorganized
 
