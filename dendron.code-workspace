@@ -11,7 +11,7 @@
       "path": "../nuno"
     },
     {
-      "path": "../Documents/bootstrap-practice"
+      "path": "../practica03"
     }
   ],
   "settings": {
@@ -25,7 +25,8 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggest.showSnippets": true,
     "editor.tabCompletion": "on",
-    "dendron.enableSelfContainedVaultWorkspace": true
+    "dendron.enableSelfContainedVaultWorkspace": true,
+    "liveServer.settings.multiRootWorkspaceName": "bootstrap-practice"
   },
   "extensions": {
     "recommendations": [
