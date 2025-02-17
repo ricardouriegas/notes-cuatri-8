@@ -2,7 +2,7 @@
 id: sjblcz5mjkop2w9d9zws8e9
 title: Work
 desc: ''
-updated: 1739803246294
+updated: 1739803475278
 created: 1739198670083
 ---
 # 2/10/2025 
@@ -45,8 +45,5 @@ created: 1739198670083
 3. He's smart and easy going
 
 ![alt text](image-47.png)
-> Correction down below
-
-![alt text](image-48.png)
 
 ![alt text](image-49.png)
