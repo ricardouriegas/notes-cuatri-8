@@ -2,7 +2,7 @@
 id: sjblcz5mjkop2w9d9zws8e9
 title: Work
 desc: ''
-updated: 1739803475278
+updated: 1739976392202
 created: 1739198670083
 ---
 # 2/10/2025 
@@ -47,3 +47,8 @@ created: 1739198670083
 ![alt text](image-47.png)
 
 ![alt text](image-49.png)
+
+# 2/19/2025
+![alt text](image-50.png)
+![alt text](image-52.png)
+![alt text](image-51.png)
