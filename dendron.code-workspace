@@ -11,10 +11,13 @@
       "path": "../nuno"
     },
     {
-      "path": "../practica03"
+      "path": "../Documents/calificaUPV"
     },
     {
-      "path": "../Documents/calificaUPV"
+      "path": "../playful-tic-tac-todo"
+    },
+    {
+      "path": "../practica04"
     }
   ],
   "settings": {

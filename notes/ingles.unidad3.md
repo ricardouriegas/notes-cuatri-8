@@ -2,7 +2,7 @@
 id: 1ppuoxspyrh9g07uwjgg7il
 title: Unidad3
 desc: ''
-updated: 1739370990566
+updated: 1740147736271
 created: 1739196689713
 ---
 # Past Habits and Familiarity
@@ -60,3 +60,25 @@ created: 1739196689713
 - Responsible
 - Disorganized
 
+# Homonyms
+- Two or mode words having the same spelling or pronunciation but different meanings and origins.
+  - fan
+  - cold
+  - wave
+  - right
+  - glasses
+  - fine
+  - park
+
+# Homophones
+- Two or more words having the same pronunciation but different meanings, origins, or spelling. For example meet and meat.
+
+Word | Homophone
+--- | ---
+aloud | allowed
+whale | wail
+place | peace
+flower | flour
+sale | sail
+sell | cell
+maid | made
