@@ -2,7 +2,7 @@
 id: t7pbh720x1icmsj6zvogezx
 title: requisitos
 desc: ''
-updated: 1739373409493
+updated: 1740500363925
 created: 1739372774447
 ---
 # Requisitos
@@ -13,16 +13,16 @@ Los requisitos funcionales describen lo que el sistema debe hacer.
 1. **Generación de progresiones armónicas**  
    - El sistema debe generar progresiones armónicas en base a parámetros definidos.
 
-2. **Exportación a MIDI**  
+2. **Exportación a MIDI** _este_
    - El sistema debe permitir exportar las progresiones generadas en formato **MIDI** para su uso en software de producción musical.  
 
-3. **Configuración de parámetros**  
+3. **Configuración de parámetros** _este_
    - El usuario podrá personalizar:
      - Tempo (**BPM**).
      - Longitud de la progresión (cantidad de acordes).
      - Duración de cada acorde (en compases).  
 
-4. **Interfaz gráfica intuitiva**  
+4. **Interfaz gráfica intuitiva**
    - El sistema debe contar con una interfaz gráfica desarrollada en **PyQt6**, que permita la configuración y generación de progresiones sin necesidad de modificar código.  
 
 5. **Generación aleatoria con coherencia musical**  
@@ -37,7 +37,7 @@ Los requisitos funcionales describen lo que el sistema debe hacer.
 Los requisitos no funcionales describen **cómo** debe funcionar el sistema en términos de rendimiento, seguridad, usabilidad, etc.
 
 1. **Usabilidad**  
-   - La interfaz debe ser **minimalista y elegante**, facilitando la interacción del usuario sin sobrecargarlo con opciones innecesarias.  
+   - La interfaz debe ser **minimalista y elegante**, facilitando la interacción del usuario sin sobrecargarl  o con opciones innecesarias.  
 
 2. **Compatibilidad**  
    - El software debe ejecutarse en **Windows, Linux y macOS**, sin requerir configuraciones avanzadas.  
