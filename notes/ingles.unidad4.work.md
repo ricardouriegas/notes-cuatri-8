@@ -2,7 +2,7 @@
 id: cdan5ax7ek19cyjoubilmr4
 title: Work
 desc: ''
-updated: 1741098817169
+updated: 1741185740550
 created: 1740406795054
 ---
 # 2/24/2025
@@ -35,6 +35,10 @@ created: 1740406795054
 # 3/4/2025
 - Patrick give a hand to spongebob selling chocolate
 - patrick and spongebob had a good head for business
-- spongebob have his heart really into making krabby patties
-- spongebob really have a hear of gold, trying to help his friend patrick
+- spongebob has his heart really into making krabby patties
+- spongebob really has a heart of gold, trying to help his friend patrick
 - kevin is a big-headed person, he thinks he is the best at everything
+
+# 3/5/2025
+![alt text](image-60.png)
+![alt text](image-61.png)

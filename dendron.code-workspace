@@ -21,6 +21,12 @@
     },
     {
       "path": "../Documents/especial2"
+    },
+    {
+      "path": "../x_sentiment_analysis"
+    },
+    {
+      "path": "../../../opt/lampp/htdocs/brillo-express"
     }
   ],
   "settings": {
