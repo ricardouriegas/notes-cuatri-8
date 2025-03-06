@@ -27,6 +27,9 @@
     },
     {
       "path": "../../../opt/lampp/htdocs/brillo-express"
+    },
+    {
+      "path": "../Documents/practica04"
     }
   ],
   "settings": {
