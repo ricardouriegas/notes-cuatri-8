@@ -2,7 +2,7 @@
 id: kadxf7ietle8zg7u4qn3xm5
 title: Unidad5
 desc: ''
-updated: 1742307225616
+updated: 1742310269404
 created: 1742307079175
 ---
 # I wish
@@ -10,9 +10,9 @@ created: 1742307079175
   - I wish **I had been** nicer to my friends is High School
   
 ## Examples
-- I wish I had gotten better frades in school
-- I wish I had more cats
-- I wish my dog had lived more years
-- I wish i had more money
-- I wish my mom lived here with me
-- I wish I were less controlling
+- I wish I _had_ gotten better frades in school
+- I wish I _had_ more cats
+- I wish my dog _had_ lived more years
+- I wish i _had_ more money
+- I wish my mom _lived_ here with me
+- I wish I _were_ less controlling
