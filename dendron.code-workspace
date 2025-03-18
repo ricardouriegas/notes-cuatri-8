@@ -14,22 +14,19 @@
       "path": "../Documents/calificaUPV"
     },
     {
-      "path": "../practica04"
-    },
-    {
       "path": "../../../opt/lampp/htdocs/practice5-Basic-Server-Side-Programming"
     },
     {
-      "path": "../Documents/especial2"
-    },
-    {
-      "path": "../x_sentiment_analysis"
-    },
-    {
-      "path": "../../../opt/lampp/htdocs/brillo-express"
+      "path": "../Documents/neural_network_learning"
     },
     {
       "path": "../Documents/practica04"
+    },
+    {
+      "path": "../Documents/practica05-api"
+    },
+    {
+      "path": "../Documents/practica05"
     }
   ],
   "settings": {
