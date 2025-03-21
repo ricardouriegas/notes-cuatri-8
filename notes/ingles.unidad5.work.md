@@ -2,7 +2,7 @@
 id: s4oog6kgj1pqu58ftbutxve
 title: Work
 desc: ''
-updated: 1742564050399
+updated: 1742566814465
 created: 1742307086969
 ---
 # something i wish now and something i wished in the past
@@ -15,3 +15,13 @@ created: 1742307086969
 # 3/20/2025
 ![alt text](image-64.png)
 ![alt text](Screenshot_20250321_072211.png)
+
+# 3/21/2025
+![alt text](image-65.png)
+c. i get nervous so I get bad grades
+d. You didnt help us so we havent finished
+e. I didnt listen to your advice
+f. I dindt tell the truth
+g. I dont speal french well
+h. you dont speak to him
+
