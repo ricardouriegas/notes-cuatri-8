@@ -2,89 +2,66 @@
 id: cqggeyrqhawombnhuw29l4r
 title: Work
 desc: ''
-updated: 1742564424993
+updated: 1742582765180
 created: 1742564401626
 ---
 # Alta Disponibilidad y Seguridad de los Datos
 
 ## 1. Diferencia entre alta prestación y alta disponibilidad en un entorno virtualizado
-**Alta Prestación (High Performance):**  
-Se enfoca en maximizar el rendimiento de recursos (CPU, RAM, almacenamiento) para garantizar cargas de trabajo intensivas. Ejemplo: clusters de servidores para procesamiento paralelo.  
-
-**Alta Disponibilidad (High Availability):**  
-Garantiza que los servicios estén operativos el mayor tiempo posible, incluso ante fallos. Usa redundancia (ej: máquinas en clúster con failover automático).  
-
-**Diferencia clave:**  
-- Alta prestación → Optimización de recursos para velocidad.  
-- Alta disponibilidad → Redundancia para minimizar tiempo de inactividad.
+La alta prestación es maximizar el rendimiento de recursos como CPU, RAM y almacenamiento para cargas intensivas (por ejemplo, con clústeres de servidores). La alta disponibilidad se centra en mantener los servicios operativos en todo momento gracias a soluciones de redundancia.
 
 ---
 
 ## 2. Importancia de definir indicadores de rendimiento en sistemas virtualizados
-**Importancia:**  
-Evitar cuellos de botella y garantizar que las VMs no compitan por recursos. Ejemplo: Si no se limita el uso de CPU de una VM, podría monopolizarla y degradar otras cargas.  
-
-**Ejemplo:**  
-Un indicador clave es el **CPU Ready Time** (tiempo que una VM espera por CPU física). Si supera el 5%, se debe optimizar la asignación de recursos.
+Para evitar cuellos de botella y que las máquinas virtuales compitan por los recursos. Por ejemplo, el "CPU Ready Time" (tiempo que una VM espera para acceder a la CPU) no debería superar el 5%, lo que indica que es necesario ajustar la asignación de recursos.
 
 ---
 
 ## 3. Escenario crucial para tolerancia a fallos
-**Escenario:** Un hospital con sistemas de historiales médicos electrónicos.  
-**Razón:** Un fallo podría impedir el acceso a datos críticos durante una emergencia.  
-**Solución:** Usar tolerancia a fallos (ej: VMware FT) para mantener una réplica sincronizada en tiempo real de la VM principal.
+Un hospital donde se gestionan historiales médicos electrónicos. Un fallo podría bloquear el acceso a datos vitales, por lo que es crucial disponer de mecanismos de tolerancia a fallos, como VMware FT, que garantiza la sincronización en tiempo real mediante réplicas.
 
 ---
 
 ## 4. Protocolos de replicado
-| Protocolo | Funcionamiento | Caso de Uso |
-|-----------|----------------|-------------|
-| **SRM (Site Recovery Manager)** | Replica VMs entre sitios físicos. Usa snapshots y sincronización asíncrona. | Disaster Recovery en VMware. |
-| **vSphere Replication** | Replicación a nivel de hipervisor sin necesidad de almacenamiento compartido. | Migración de VMs entre clusters. |
-| **Ceph RADOS** | Replicación distribuida en clusters de almacenamiento con consistencia eventual. | Almacenamiento hiperconvergente (HCI). |
+Para replicar datos de forma segura y eficaz, existen diversos protocolos. A continuación se muestra una tabla con algunos ejemplos y sus respectivos casos de uso:
+
+| Protocolo              | Funcionamiento                                                        | Caso de Uso                          |
+|------------------------|----------------------------------------------------------------------|--------------------------------------|
+| **SRM (Site Recovery Manager)**    | Replica VMs entre sitios físicos usando snapshots y sincronización asíncrona. | Disaster Recovery en VMware.         |
+| **vSphere Replication**            | Replicación a nivel de hipervisor sin necesidad de almacenamiento compartido.      | Migración de VMs entre clusters.     |
+| **Ceph RADOS**                     | Replicación distribuida en clusters de almacenamiento con consistencia eventual.   | Almacenamiento hiperconvergente (HCI). |
 
 ---
 
 ## 5. Impacto de protocolos de migración en el rendimiento
-**Ventaja:** Permiten mover VMs entre hosts sin downtime (ej: vMotion). Ideal para mantenimiento preventivo.  
-**Desventaja:** Consumo de ancho de banda durante la migración, lo que puede afectar redes saturadas.  
+Las migraciones permiten trasladar VMs sin interrumpir su funcionamiento, resultando bueno para tareas de mantenimiento. Sin embargo, es importante considerar que este proceso puede consumir un ancho de banda considerable, lo cual podría afectar redes congestionadas.
 
 ---
 
 ## 6. Migración en caliente vs. en frío
-- **Migración en caliente (Live Migration):**  
-  La VM sigue ejecutándose durante el traslado (ej: VMware vMotion). Cero downtime.  
-- **Migración en frío (Cold Migration):**  
-  La VM se apaga antes de moverla. Requiere interrupción del servicio.  
+En la migración en caliente; la VM continúa operando durante el traslado (por ejemplo, usando VMware vMotion), lo que significa que no se interrumpe el servicio. Por otro lado, la migración en frío requiere apagar la máquina virtual antes de moverla, causando una breve interrupción.
 
 ---
 
 ## 7. Protocolos de restauración y minimización de pérdidas
-Un protocolo de restauración (ej: backups incrementales + snapshots) permite recuperar datos hasta el último estado conocido antes del fallo. Por ejemplo, si un servidor se corrompe, restaurar desde un snapshot de hace 5 minutos reduce la pérdida a solo esos minutos de actividad.
+Contar con protocolos de restauración, como backups incrementales y snapshots, permite recuperar la información hasta el último punto registrado antes de un fallo. Por ejemplo, restaurar desde un snapshot tomado cinco minutos antes puede limitar la pérdida de datos a ese corto periodo.
 
 ---
 
 ## 8. Ejemplo de empresa con alta disponibilidad
-**Empresa:** Netflix  
-**Estrategias:**  
-- Uso de AWS con múltiples regiones (failover automático).  
-- Arquitectura de microservicios con balanceo de carga.  
-- **Chaos Monkey**: Herramienta para simular fallos y asegurar resiliencia.  
+Santander ilustra de manera práctica cómo se puede construir un sistema robusto. Utilizan centros de datos en diversas ubicaciones, replicación de datos en tiempo real y un monitoreo constante, lo que les permite responder rápidamente ante cualquier incidente.
 
 ---
 
 ## 9. Implementación de tolerancia a fallos en un centro de datos
-1. **Redundancia física:** Múltiples fuentes de energía y conexiones de red.  
-2. **Hipervisores en clúster:** Ej: VMware HA o Hyper-V Failover Clustering.  
-3. **Almacenamiento replicado:** RAID 10 o SAN con replicación síncrona.  
-4. **Monitoreo proactivo:** Herramientas como Nagios para alertar antes de fallos.  
-5. **Pruebas periódicas:** Simular fallos para validar la recuperación.  
+Para mejorar la tolerancia a fallos en un centro de datos se pueden aplicar varias medidas: 
+- Utilizar múltiples fuentes de energía y conexiones para asegurar redundancia física
+- Implementar hipervisores en clúster como VMware HA o Hyper-V Failover Clustering
+- Usar almacenamiento replicado mediante RAID 10 o SAN
+- Establecer un monitoreo proactivo con herramientas como Nagios
+- Realizar simulacros periódicos para verificar que el sistema responde apropiadamente
 
 ---
 
 ## 10. Medición de efectividad de replicado
-**Indicadores clave:**  
-- **RPO (Objetivo de Punto de Recuperación):** Tiempo máximo de datos perdidos (ej: 15 minutos).  
-- **RTO (Objetivo de Tiempo de Recuperación):** Tiempo para restaurar el servicio (ej: 30 minutos).  
-- **Consistencia de datos:** Verificar integridad post-replicación.  
-- **Throughput de replicación:** Velocidad de transferencia (ej: 1 Gbps).  
+La efectividad de la replicación se evalúa mediante indicadores como el RPO (que define el tiempo máximo permitido para la pérdida de datos, por ejemplo, 15 minutos) y RTO (el tiempo que se tarda en restaurar el servicio, por ejemplo, 30 minutos). Otros factores importantes son la consistencia de los datos y la velocidad de transferencia, que podría rondar los 1 Gbps.

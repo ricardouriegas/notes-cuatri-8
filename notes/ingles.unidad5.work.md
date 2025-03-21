@@ -2,7 +2,7 @@
 id: s4oog6kgj1pqu58ftbutxve
 title: Work
 desc: ''
-updated: 1742566814465
+updated: 1742568842730
 created: 1742307086969
 ---
 # something i wish now and something i wished in the past
@@ -25,3 +25,4 @@ f. I dindt tell the truth
 g. I dont speal french well
 h. you dont speak to him
 
+"I wish I had better news for you, Hal, but the prosecution has 30 eyewitnesses that can all avoid going to prison themselves by fingering you.
