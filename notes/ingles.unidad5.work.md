@@ -2,7 +2,7 @@
 id: s4oog6kgj1pqu58ftbutxve
 title: Work
 desc: ''
-updated: 1742827191027
+updated: 1742914014094
 created: 1742307086969
 ---
 # something i wish now and something i wished in the past
@@ -41,3 +41,14 @@ The prosecution has 30 eyewitnesses that can all avoid going to prison themselve
 - I rather my best frienf asked me before borrowing my stuff
 - I only I knew somthing about computers. I could help you
 - Its time we take a break
+
+# 3/25/2025
+![alt text](Screenshot_20250325_084646.png)
+1. If the house hadnt been on a cliff, It wouldnt have fallen into water
+2. Marty and carrie wish they hadnt bought it
+3. They shouldn't have acted so quickly
+4. they should have hired a surveyor
+5. If they had hired a suveyor, he or she might have warned them not to buy it
+6. If only they hadn't lost all their money
+7. supposing the earthquake hadnt happened
+8. they wish they hadnt gone on vacation to Vanuatu
