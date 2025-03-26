@@ -2,7 +2,7 @@
 id: s4oog6kgj1pqu58ftbutxve
 title: Work
 desc: ''
-updated: 1742914014094
+updated: 1742998881247
 created: 1742307086969
 ---
 # something i wish now and something i wished in the past
@@ -52,3 +52,6 @@ The prosecution has 30 eyewitnesses that can all avoid going to prison themselve
 6. If only they hadn't lost all their money
 7. supposing the earthquake hadnt happened
 8. they wish they hadnt gone on vacation to Vanuatu
+
+# 3/26/2025
+![alt text](Screenshot_20250326_082039.png)
