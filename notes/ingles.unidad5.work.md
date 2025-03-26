@@ -2,7 +2,7 @@
 id: s4oog6kgj1pqu58ftbutxve
 title: Work
 desc: ''
-updated: 1742998881247
+updated: 1743000762849
 created: 1742307086969
 ---
 # something i wish now and something i wished in the past
@@ -55,3 +55,17 @@ The prosecution has 30 eyewitnesses that can all avoid going to prison themselve
 
 # 3/26/2025
 ![alt text](Screenshot_20250326_082039.png)
+![alt text](image-67.png)
+But you'll find out just wait and see
+Im the greatest trainer of the world, take it or leave it
+
+## homework
+1. In any relationship you have to be prepared to give and take. You can’t have your own way all the time.
+2. I didn’t buy much at the mall. Just a few odds and ends for the kids. Socks for Ben and hairbands for Jane.
+3. I don’t want to hear any ifs or buts. Just finish the job today.
+4. It’s hard to explain the ins and outs of the rules of cricket. It’s complicated.
+5. “What did you get me for my birthday?” “You’ll have to wait and see.”
+6. “Oh, no! The Burtons are coming for lunch! I hate their kids!” “I’m sorry, but you’ll just have to grin and bear it. It’s only for an hour or so.”
+7. OK, you can have it for $90. That’s my final offer, take it or leave it.
+8. Los Angeles has lots of problems, but by and large, it’s a nice place to live.
+
