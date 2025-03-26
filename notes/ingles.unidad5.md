@@ -2,7 +2,7 @@
 id: kadxf7ietle8zg7u4qn3xm5
 title: Unidad5
 desc: ''
-updated: 1742310269404
+updated: 1742999335182
 created: 1742307079175
 ---
 # I wish
@@ -16,3 +16,30 @@ created: 1742307079175
 - I wish i _had_ more money
 - I wish my mom _lived_ here with me
 - I wish I _were_ less controlling
+
+# Nonreversible word pairs
+There are words we usually use together and follow the same order, these can have a literal or non literal meaning
+
+## Excuses/arguments
+- You better be there tomorrow, no **its or buts** about it
+
+## Be patient and find out
+- No one knosw what will happen, we'll have to **wait and see**
+
+## Exact details
+- You need to know the **ins and outs** of your research project
+
+## Compromise/be flexible
+- Relationship are supposed to be a **give and take**
+
+## Generraly speaking
+- I'm okay with my speak, **by and large** but I still want o give it another look
+
+## Tolerate it as best you can
+- I really dont want to go, but I guess I'll just habe to **grin and bear it** (te vas a tener que aguantar)
+
+## A varety of things
+- I've got to finish a bouch of **odds and ends** before I leave for my trip
+
+## Accept it or refuse it, I dont care
+- I really like the movie **take it or leave it**
