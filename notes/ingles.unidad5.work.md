@@ -2,7 +2,7 @@
 id: s4oog6kgj1pqu58ftbutxve
 title: Work
 desc: ''
-updated: 1743000762849
+updated: 1743084962280
 created: 1742307086969
 ---
 # something i wish now and something i wished in the past
@@ -68,4 +68,6 @@ Im the greatest trainer of the world, take it or leave it
 6. “Oh, no! The Burtons are coming for lunch! I hate their kids!” “I’m sorry, but you’ll just have to grin and bear it. It’s only for an hour or so.”
 7. OK, you can have it for $90. That’s my final offer, take it or leave it.
 8. Los Angeles has lots of problems, but by and large, it’s a nice place to live.
+
+# 3/27/2025
 
