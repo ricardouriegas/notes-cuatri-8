@@ -2,7 +2,7 @@
 id: s4oog6kgj1pqu58ftbutxve
 title: Work
 desc: ''
-updated: 1743084962280
+updated: 1743432171916
 created: 1742307086969
 ---
 # something i wish now and something i wished in the past
@@ -69,5 +69,5 @@ Im the greatest trainer of the world, take it or leave it
 7. OK, you can have it for $90. That’s my final offer, take it or leave it.
 8. Los Angeles has lots of problems, but by and large, it’s a nice place to live.
 
-# 3/27/2025
-
+# 3/31/2025
+![alt text](image-68.png)
