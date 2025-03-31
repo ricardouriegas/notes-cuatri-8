@@ -2,7 +2,7 @@
 id: kadxf7ietle8zg7u4qn3xm5
 title: Unidad5
 desc: ''
-updated: 1742999335182
+updated: 1743430387368
 created: 1742307079175
 ---
 # I wish
@@ -43,3 +43,22 @@ There are words we usually use together and follow the same order, these can hav
 
 ## Accept it or refuse it, I dont care
 - I really like the movie **take it or leave it**
+
+# Determiners 
+Determiners are words that came before nouns, they can be articles, possesives, quantifiers or demostratives
+- Definite an indefinite articles
+  - _A_ nice sweater
+  - _An_ incredible evening
+  - _The_ tree we saw at the corner
+- Possesives
+  - _My_ car
+  - _Your_ house
+  - _Their_ dog
+- Quantifiers
+  - _Some_ people
+  - _A few_ friends
+  - _Many_ students
+- Demonstratives
+  - I love _this_ book
+  - I hate _that_ movie
+  - _These_ shoes are killing me!
