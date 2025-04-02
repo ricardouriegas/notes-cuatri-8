@@ -2,7 +2,7 @@
 id: s4oog6kgj1pqu58ftbutxve
 title: Work
 desc: ''
-updated: 1743432171916
+updated: 1743604363049
 created: 1742307086969
 ---
 # something i wish now and something i wished in the past
@@ -71,3 +71,6 @@ Im the greatest trainer of the world, take it or leave it
 
 # 3/31/2025
 ![alt text](image-68.png)
+
+# 4/2/2025
+![alt text](image-69.png)

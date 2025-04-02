@@ -14,9 +14,6 @@
       "path": "../Documents/neural_network_learning"
     },
     {
-      "path": "../lumbreras"
-    },
-    {
       "path": "../Documents/class-connect-sphere"
     },
     {
@@ -24,6 +21,9 @@
     },
     {
       "path": "../Documents/mindlink-backend"
+    },
+    {
+      "path": "../harmony-midi-generator"
     }
   ],
   "settings": {
